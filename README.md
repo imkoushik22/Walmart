@@ -10,7 +10,7 @@
 
 It will serve the directory on localhost 8080 by default.
 
-Next steps: Remove unncessary frills from the website. Figure out how to algorithmically add option for "Top-k Recommendations", k - user choice
+Next steps: Remove unncessary frills from the website. Figure out how to algorithmically add option for "Top-k Recommendations"; k - user choice
 
 Directory Structure: 
 ```
