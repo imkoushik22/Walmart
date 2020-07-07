@@ -14,10 +14,10 @@ Next steps: Remove unncessary frills from the website. Figure out how to algorit
 
 Directory Structure: 
 Frontend
-       |_ _ images
-       |_ _ css
-       |_ _ fonts
-       |_ _ js
-       |_ _ scss
-       |_ _ various html base templates
+       |+--  images
+       |+--  css
+       |+--  fonts
+       |+--  js
+       |+--  scss
+       |+--  various html base templates
 
