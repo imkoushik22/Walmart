@@ -1,12 +1,9 @@
 # Walmart
-(We gotta rethink this) Github repo for google search: https://github.com/atif93/google_image_downloader
-
-@Koushik: Add a credits section where we acknowledge the original creators of this template (check if it is MIT Licensed)
 
 @Shivaank, Jaya: In-order to test out the template locally,
 
-1. `npm install http-server -g`
-2. `http-server`
+One-time installation: `npm install http-server -g`
+Serve locally using: `http-server`
 
 It will serve the directory on localhost 8080 by default.
 
